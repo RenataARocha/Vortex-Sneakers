@@ -8,7 +8,7 @@ Bem-vindo ao **Vortex Sneakers** — uma landing page moderna e responsiva para 
 
 👉 [Vortex Sneakers - Visualize o projeto aqui](https://renataarocha.github.io/Vortex-Sneakers/)
 
-🔗 [Clique aqui para ver o vídeo de demonstração](https://drive.google.com/SEU-LINK-AQUI)
+Clique para ver o vídeo :
 
 
 
